@@ -1,0 +1,121 @@
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Bot Application.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Bot Application.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Autofac.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Chronic.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.Autofac.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Connector.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocol.Extensions.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Rest.ClientRuntime.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.WindowsAzure.Configuration.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Newtonsoft.Json.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.IdentityModel.Tokens.Jwt.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Net.Http.Formatting.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.WebHost.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocol.Extensions.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.IdentityModel.Tokens.Jwt.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Net.Http.Formatting.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.Web.Http.WebHost.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Connector.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.Autofac.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Newtonsoft.Json.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.WindowsAzure.Configuration.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Autofac.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/ar/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/cs/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/de-dE/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/en/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/es/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/fa/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/fr/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/it/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/ja/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/nl/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/pt-BR/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/ru/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/zh-hans/Microsoft.Bot.Builder.resources.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.csprojResolveAssemblyReference.cache
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.csproj.CoreCompileInputs.cache
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/obj/Debug/Bot Application.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Logging.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Tokens.dll
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Logging.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Logging.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Tokens.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Tokens.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.JsonWebTokens.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.JsonWebTokens.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/System.IdentityModel.Tokens.Jwt.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.Autofac.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/Microsoft.Bot.Builder.pdb
+/Users/suthahar.jagatheesan/Downloads/botframework-template-vs-for-mac-master/bin/el/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Bot Application.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Bot Application.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Autofac.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Chronic.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Builder.Autofac.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Builder.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Connector.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Logging.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Protocol.Extensions.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Protocols.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Tokens.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Rest.ClientRuntime.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.WindowsAzure.Configuration.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Newtonsoft.Json.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.IdentityModel.Tokens.Jwt.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.Net.Http.Formatting.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.Web.Http.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.Web.Http.WebHost.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Protocol.Extensions.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.WindowsAzure.Configuration.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Autofac.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Logging.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Logging.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Newtonsoft.Json.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.Net.Http.Formatting.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.Web.Http.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.Web.Http.WebHost.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Tokens.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Tokens.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.JsonWebTokens.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.JsonWebTokens.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.IdentityModel.Tokens.Jwt.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/System.IdentityModel.Tokens.Jwt.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Protocols.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Connector.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Builder.Autofac.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Builder.Autofac.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Builder.pdb
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/Microsoft.Bot.Builder.xml
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/ar/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/cs/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/de-dE/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/el/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/en/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/es/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/fa/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/fr/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/it/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/ja/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/nl/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/pt-BR/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/ru/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/bin/zh-hans/Microsoft.Bot.Builder.resources.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/obj/Debug/Bot Application.csprojAssemblyReference.cache
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/obj/Debug/Bot Application.csproj.CoreCompileInputs.cache
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/obj/Debug/Bot Application.csproj.CopyComplete
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/obj/Debug/Bot Application.dll
+/Users/Shared/Git/VisualStudioExtension/BotFramework For mac/BotFramework For mac/obj/Debug/Bot Application.pdb
